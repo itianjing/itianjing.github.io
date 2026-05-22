@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "昇腾NPU与NVIDIA GPU利用率"
 date: 2026-05-22 14:30:00 +0800
 categories: [技术, 教程]
